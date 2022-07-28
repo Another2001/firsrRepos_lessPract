@@ -1,6 +1,8 @@
 hello everydody!)
 
-Памятка об использовании команд в **git**:
+Памятка об использовании *команд* в **git**:
+
+![](https://img.haikudeck.com/mg/PKrjrKAPFO_1432821185841.jpg)
 
 **git init** - git превращает выбранную папку в репозиторий, в котором будут отслеживаться файлы.
 
@@ -32,7 +34,12 @@ hello everydody!)
 
 >"Если вы ни к чему не стремитесь, вы ничего не получите". - Зиг Зиглар
 
-![Текст с описанием картинки](https://picsum.photos/800/600)
-а чтобы не было скучно и одиноко вот вам котик:
+теперь разбавим наш форматированный текст несколькими забавными картинками:
+- # Котики
+![](http://bm.img.com.ua/img/prikol/images/large/0/0/165100.jpg) 
 
-![](https://i.pinimg.com/originals/5c/23/c4/5c23c4b0e32985c7837facdda5778813.jpg)
+![](https://bugaga.ru/uploads/posts/2016-09/1474981059_foto-9.jpg) 
+
+- # Совы
+![](https://vjoy.cc/wp-content/uploads/2019/05/32-45.jpg)
+![](https://klike.net/uploads/posts/2018-11/1541229142_4.jpg)
